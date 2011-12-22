@@ -1,0 +1,2 @@
+serviceClass: wf4ever.client.GreetingService
+path: BCD6CD8F12D0E52CE5BD53677FBA084D.gwt.rpc
